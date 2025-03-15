@@ -1,0 +1,12 @@
+To check the status of Repository
+git status
+
+git clone "HTTPS link of Repository"
+
+git add --all
+
+git add "FileName"
+
+git commit -m "message"
+
+git push
